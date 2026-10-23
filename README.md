@@ -1,6 +1,7 @@
 [README.md](https://github.com/user-attachments/files/33748007/README.md)
 # AeroSlice-Converter-
-Aims to convert Cura Surface-only RC aircraft models for PrusaSlicer, OrcaSlicer and Bambu Studio, reducing compatibility and preparation hassles.Cura 表面模式常让航模切片颇为头疼。本项目旨在将依赖该模式的模型转换为可供 PrusaSlicer、OrcaSlicer、拓竹等软件切片的模型，减少兼容与修模麻烦。
+Convert Cura Surface Mode models to printable geometry for Bambu Studio, OrcaSlicer, and PrusaSlicer.
+Aims to convert Cura Surface-only RC aircraft models for PrusaSlicer, OrcaSlicer and Bambu Studio, reducing compatibility and preparation hassles.将 Cura 表面模式（Surface Mode）的模型转换为适用于 Bambu Studio、OrcaSlicer 和 PrusaSlicer 的可打印几何体。” Cura 表面模式常让航模切片颇为头疼。本项目旨在将依赖该模式的模型转换为可供 PrusaSlicer、OrcaSlicer、拓竹等软件切片的模型，减少兼容与修模麻烦。
 # AeroSlice Converter 0.2.4
 
 **航模 Surface 模型切片兼容转换器 · Aircraft Surface Model Converter**
